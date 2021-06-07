@@ -1,1 +1,1 @@
-# Django REST API Test
+# Django REST API Framework Test
